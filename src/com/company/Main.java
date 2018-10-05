@@ -24,7 +24,7 @@ do {
     ans =  src.next();
 }while( ans .equals("y"));
         if (ans .equals("n")) {
-            System.out.print( 5%2 );
+            System.out.print( "Thank you for playing" );
         }}
 
 }
